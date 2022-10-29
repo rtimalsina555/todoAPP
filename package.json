@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "creating a todo list",
+  "main": "script.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map scss/style.css scss/main.scss" 
+  },
+  "author": "ramesh timalsina",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
